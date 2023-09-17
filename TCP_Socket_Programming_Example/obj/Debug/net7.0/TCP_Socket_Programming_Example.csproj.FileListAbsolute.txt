@@ -1,0 +1,15 @@
+C:\Users\Alican\source\repos\TCP_Socket_Programming_Example\TCP_Socket_Programming_Example\bin\Debug\net7.0\TCP_Socket_Programming_Example.exe
+C:\Users\Alican\source\repos\TCP_Socket_Programming_Example\TCP_Socket_Programming_Example\bin\Debug\net7.0\TCP_Socket_Programming_Example.deps.json
+C:\Users\Alican\source\repos\TCP_Socket_Programming_Example\TCP_Socket_Programming_Example\bin\Debug\net7.0\TCP_Socket_Programming_Example.runtimeconfig.json
+C:\Users\Alican\source\repos\TCP_Socket_Programming_Example\TCP_Socket_Programming_Example\bin\Debug\net7.0\TCP_Socket_Programming_Example.dll
+C:\Users\Alican\source\repos\TCP_Socket_Programming_Example\TCP_Socket_Programming_Example\bin\Debug\net7.0\TCP_Socket_Programming_Example.pdb
+C:\Users\Alican\source\repos\TCP_Socket_Programming_Example\TCP_Socket_Programming_Example\obj\Debug\net7.0\TCP_Socket_Programming_Example.csproj.AssemblyReference.cache
+C:\Users\Alican\source\repos\TCP_Socket_Programming_Example\TCP_Socket_Programming_Example\obj\Debug\net7.0\TCP_Socket_Programming_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alican\source\repos\TCP_Socket_Programming_Example\TCP_Socket_Programming_Example\obj\Debug\net7.0\TCP_Socket_Programming_Example.AssemblyInfoInputs.cache
+C:\Users\Alican\source\repos\TCP_Socket_Programming_Example\TCP_Socket_Programming_Example\obj\Debug\net7.0\TCP_Socket_Programming_Example.AssemblyInfo.cs
+C:\Users\Alican\source\repos\TCP_Socket_Programming_Example\TCP_Socket_Programming_Example\obj\Debug\net7.0\TCP_Socket_Programming_Example.csproj.CoreCompileInputs.cache
+C:\Users\Alican\source\repos\TCP_Socket_Programming_Example\TCP_Socket_Programming_Example\obj\Debug\net7.0\TCP_Socket_Programming_Example.dll
+C:\Users\Alican\source\repos\TCP_Socket_Programming_Example\TCP_Socket_Programming_Example\obj\Debug\net7.0\refint\TCP_Socket_Programming_Example.dll
+C:\Users\Alican\source\repos\TCP_Socket_Programming_Example\TCP_Socket_Programming_Example\obj\Debug\net7.0\TCP_Socket_Programming_Example.pdb
+C:\Users\Alican\source\repos\TCP_Socket_Programming_Example\TCP_Socket_Programming_Example\obj\Debug\net7.0\TCP_Socket_Programming_Example.genruntimeconfig.cache
+C:\Users\Alican\source\repos\TCP_Socket_Programming_Example\TCP_Socket_Programming_Example\obj\Debug\net7.0\ref\TCP_Socket_Programming_Example.dll
